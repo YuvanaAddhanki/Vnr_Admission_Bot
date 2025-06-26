@@ -60,8 +60,6 @@ node server.js
 cd frontend-react
 npm start
 ```
-- Frontend: http://localhost:3000
-- Backend: http://localhost:5000
 
 ## Usage
 - Register as a student or admin.
